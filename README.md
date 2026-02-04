@@ -13,3 +13,5 @@ Hier dokumentiere ich meine Fortschritte und speichere meine Lösungen.
 ## Notizen
 
 _Das Ziel ist es, die Grundlagen von Responsive Design perfekt zu verstehen, bevor ich mit JavaScript starte._
+
+Heute lerne ich den Workflow mit Git.
