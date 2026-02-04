@@ -3,7 +3,7 @@
 Dies ist mein Lern-Repository für die freeCodeCamp-Zertifizierung.
 Hier dokumentiere ich meine Fortschritte und speichere meine Lösungen.
 
-## Mein Fortschritt
+## 📅 Aktueller Status
 
 - [x] Projekt-Ordner erstellt und mit GitHub verbunden
 - [ ] HTML Basics lernen
@@ -14,4 +14,7 @@ Hier dokumentiere ich meine Fortschritte und speichere meine Lösungen.
 
 _Das Ziel ist es, die Grundlagen von Responsive Design perfekt zu verstehen, bevor ich mit JavaScript starte._
 
-Heute lerne ich den Workflow mit Git.
+## 🛠 Einstellungen
+
+- Formattierung: Prettier (Standard-Konfiguration)
+- Editor: VS Code
